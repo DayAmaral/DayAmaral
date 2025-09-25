@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DayAmaral
 - 👀 I’m interested in Java, JavaScript, Python, Java, PHP, C#TypeScript, C++. I enjoy working with both front-end and back-end development.
 - 📫 How to reach me at: day-basiewciz@hotmail.com
-- 😄 Pronouns: She/her, he/him, they/them. 
+- 😄 Pronouns: She/her.
 - ⚡ Fun fact: I’m 23 years old and currently studying Systems Analysis and Development.
 
 <!---
